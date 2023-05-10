@@ -1,0 +1,49 @@
+.flex {
+    display: flex;
+}
+
+.container {
+    padding: 50px;
+    margin: 50px;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+}
+
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+td, th{
+    text-align: left;
+    border: 1px solid black;
+}
+
+label{
+    margin-right: 10px;
+}
+.danger-btn{
+    background-color: brown;
+    color: white;
+    border: 1px solid brown;
+    border-radius: 10px;
+}
+.warning-btn{
+    background-color: orangered;
+    color: white;
+    border: 1px solid orangered;
+    border-radius: 10px;
+}
+.primary-btn{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+.margin-right {
+    margin-right: 10px;
+}
+.form-element{
+    margin-right: 10px;
+}
+
